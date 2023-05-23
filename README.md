@@ -14,13 +14,13 @@
 <div>
 <p align="center" style="'display':'flex';'flex-direction':'row'">
   <img align="center"
-      alt="Lennon Jesus Costa Github stats"
+      alt="Jupyter0323 Github stats"
       style="margin-bottom: 10px;"
       height="165" src="https://github-readme-stats.vercel.app/api?username=lennonjesus&theme=ayu-mirage&show_icons=true&count_private=true" />
   <img
     align="center"
     alt="Most used languages"
-    style="margin-bottom: 10px;"
+    style="margin-top: 10px;"
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lennonjesus&layout=compact&langs_count=6&theme=ayu-mirage"
   />
 </p>

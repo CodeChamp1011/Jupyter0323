@@ -14,7 +14,7 @@
   <img
     align="center"
     alt="Most used languages"
-    style="margin-top: 10px;"
+    style="margin-top: 10px; width: 100px"
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lennonjesus&layout=compact&langs_count=6&theme=ayu-mirage"
   />
 </p>

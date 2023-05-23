@@ -12,7 +12,7 @@
 </p>
 <br>
 <div>
-<p align="center" style="display:'flex'">
+<p align="center" style="'display':'flex';'flex-direction':'row'">
   <img align="center"
       alt="Lennon Jesus Costa Github stats"
       style="margin-bottom: 10px;"
@@ -25,8 +25,4 @@
   />
 </p>
 </div>
-##
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-<!--
-**lennonjesus/lennonjesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

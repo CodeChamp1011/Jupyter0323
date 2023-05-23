@@ -12,5 +12,14 @@
 </p>
 <br>
 <p align="center">
-    <a href="https://github.com/rockstar-0000"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockstar-0000&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+  <img align="center"
+      alt="Lennon Jesus Costa Github stats"
+      style="margin-bottom: 10px;"
+      height="165" src="https://github-readme-stats.vercel.app/api?username=lennonjesus&theme=ayu-mirage&show_icons=true&count_private=true" />
+  <img
+    align="center"
+    alt="Most used languages"
+    style="margin-bottom: 10px;"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lennonjesus&layout=compact&langs_count=6&theme=ayu-mirage"
+  />
 </p>

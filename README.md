@@ -10,12 +10,4 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
-<p align="center">
-  <img
-    align="center"
-    alt="Most used languages"
-    style="margin-top: 10px; width: 80%"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lennonjesus&layout=compact&langs_count=6&theme=ayu-mirage"
-  />
-</p>
 
